@@ -1,0 +1,8 @@
+name: CKEditor Insert Smiley
+type: module
+description: This plugin provides a set of emoticons to insert into the editor via a dialog window.
+core: 8.x
+package: CKEditor
+version: VERSION
+dependencies:
+  - ckeditor
